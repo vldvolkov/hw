@@ -1,0 +1,77 @@
+h2{
+    color: var(--main-gold-color);
+    text-align: center;
+    font-size: 34px;
+    font-family: 'BenchNine', sans-serif;
+}
+
+.white-line{   
+    width: 346px;
+    height: 32px;
+}
+
+.our-brand__subtitle{
+    text-align: center;
+    color: var(--main-text-color);
+    font-size: 19px;
+    font-family: 'Robotto', sans-serif;
+}
+
+.our_brands_fine_cigars{
+    text-align: right;
+    color: var(--white-text-color);
+    font-size: 17px;
+    font-family: 'Robotto', sans-serif;
+}
+
+.h_fine_cigars{
+    color: var(--main-gold-color);
+    text-align: center;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 22px;
+}
+
+.our_brands_cigar_bar{
+    text-align: right;
+    color: var(--white-text-color);
+    font-size: 17px;
+    font-family: 'Robotto', sans-serif;
+}
+
+.h_cigar_bar{
+    color: var(--main-gold-color);
+    text-align: center;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 22px;
+}
+
+.our_brands_cigar_world{
+    text-align: right;
+    color: var(--white-text-color);
+    font-size: 17px;
+    font-family: 'Robotto', sans-serif;
+}
+
+.h_cigar_world{
+    color: var(--main-gold-color);
+    text-align: center;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 22px;
+}
+
+
+
+section{
+    background-color: black;
+}
+
+.white-line{
+    text-align: center;
+    
+}
+    
+
+
+
+
+    
